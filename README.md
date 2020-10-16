@@ -1,2 +1,2 @@
 # My-App
-Angular pet project
+Machine Learning Pet Projects
