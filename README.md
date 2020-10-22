@@ -1,2 +1,4 @@
 # My-App
-Machine Learning Pet Projects
+
+Java script projects
+
